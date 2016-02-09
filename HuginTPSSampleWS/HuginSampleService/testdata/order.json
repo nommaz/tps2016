@@ -1,0 +1,273 @@
+{
+	'OkcId': '',
+	'OkcPassword': '',
+	'TokenId': '',
+	'DocumentType': 1,
+	'DocumentNo': 0,
+	'InvoiceNo': '',
+	'InvoiceDate': '0001-01-01T00: 00: 00',
+	'ZNo': 0,
+	'CreateDate': '0001-01-01T00: 00: 00',
+	'CashierNum': '',
+	'SaleItems': [{
+		'Quantity': 1.0,
+		'Amount': 36.0,
+		'PLUNo': 2,
+		'DepartmentId': 4,
+		'VatRate': 5.0,
+		'Definition': '1,
+		5DONER',
+		'Barcode': '1234562',
+		'ReferenceCode': '',
+		'DiscountInfo': {
+			'DiscountTotal': 0.0,
+			'DiscountRate': 0,
+			'DiscountNotes': []
+		},
+		'Weighable': '',
+		'Price': 17.95,
+		'SalesPerson': 0,
+		'ItemNotes': [''],
+		'ProductSerialNum': '',
+		'OwnerCode': 0
+	},
+	{
+		'Quantity': 1.0,
+		'Amount': 12.0,
+		'PLUNo': 6,
+		'DepartmentId': 4,
+		'VatRate': 5.0,
+		'Definition': 'AZMERCIMEKCORBA',
+		'Barcode': '1234566',
+		'ReferenceCode': '',
+		'DiscountInfo': {
+			'DiscountTotal': 0.0,
+			'DiscountRate': 0,
+			'DiscountNotes': []
+		},
+		'Weighable': '',
+		'Price': 4.45,
+		'SalesPerson': 0,
+		'ItemNotes': [''],
+		'ProductSerialNum': '',
+		'OwnerCode': 0
+	},
+	{
+		'Quantity': 1.0,
+		'Amount': 84.0,
+		'PLUNo': 3,
+		'DepartmentId': 4,
+		'VatRate': 5.0,
+		'Definition': 'DUBLEDONER',
+		'Barcode': '1234563',
+		'ReferenceCode': '',
+		'DiscountInfo': {
+			'DiscountTotal': 0.0,
+			'DiscountRate': 0,
+			'DiscountNotes': []
+		},
+		'Weighable': '',
+		'Price': 20.95,
+		'SalesPerson': 0,
+		'ItemNotes': [''],
+		'ProductSerialNum': '',
+		'OwnerCode': 0
+	},
+	{
+		'Quantity': 1.0,
+		'Amount': 39.0,
+		'PLUNo': 10,
+		'DepartmentId': 4,
+		'VatRate': 5.0,
+		'Definition': 'DUBLESALATA',
+		'Barcode': '12345610',
+		'ReferenceCode': '',
+		'DiscountInfo': {
+			'DiscountTotal': 0.0,
+			'DiscountRate': 0,
+			'DiscountNotes': []
+		},
+		'Weighable': '',
+		'Price': 12.9,
+		'SalesPerson': 0,
+		'ItemNotes': [''],
+		'ProductSerialNum': '',
+		'OwnerCode': 0
+	},
+	{
+		'Quantity': 1.0,
+		'Amount': 75.00,
+		'PLUNo': 5,
+		'DepartmentId': 4,
+		'VatRate': 5.0,
+		'Definition': 'KOFTE',
+		'Barcode': '1234565',
+		'ReferenceCode': '',
+		'DiscountInfo': {
+			'DiscountTotal': 0.0,
+			'DiscountRate': 0,
+			'DiscountNotes': []
+		},
+		'Weighable': '',
+		'Price': 14.95,
+		'SalesPerson': 0,
+		'ItemNotes': [''],
+		'ProductSerialNum': '',
+		'OwnerCode': 0
+	},
+	{
+		'Quantity': 1.0,
+		'Amount': 30.0,
+		'PLUNo': 7,
+		'DepartmentId': 4,
+		'VatRate': 5.0,
+		'Definition': 'MERCIMEKCORBA',
+		'Barcode': '1234567',
+		'ReferenceCode': '',
+		'DiscountInfo': {
+			'DiscountTotal': 0.0,
+			'DiscountRate': 0,
+			'DiscountNotes': []
+		},
+		'Weighable': '',
+		'Price': 5.95,
+		'SalesPerson': 0,
+		'ItemNotes': [''],
+		'ProductSerialNum': '',
+		'OwnerCode': 0
+	},
+	{
+		'Quantity': 1.0,
+		'Amount': 30.0,
+		'PLUNo': 11,
+		'DepartmentId': 4,
+		'VatRate': 5.0,
+		'Definition': 'PARMAKPATATES',
+		'Barcode': '12345611',
+		'ReferenceCode': '',
+		'DiscountInfo': {
+			'DiscountTotal': 0.0,
+			'DiscountRate': 0,
+			'DiscountNotes': []
+		},
+		'Weighable': '',
+		'Price': 4.95,
+		'SalesPerson': 0,
+		'ItemNotes': [''],
+		'ProductSerialNum': '',
+		'OwnerCode': 0
+	},
+	{
+		'Quantity': 1.0,
+		'Amount': 14.0,
+		'PLUNo': 9,
+		'DepartmentId': 4,
+		'VatRate': 5.0,
+		'Definition': 'SALATA',
+		'Barcode': '1234569',
+		'ReferenceCode': '',
+		'DiscountInfo': {
+			'DiscountTotal': 0.0,
+			'DiscountRate': 0,
+			'DiscountNotes': []
+		},
+		'Weighable': '',
+		'Price': 6.95,
+		'SalesPerson': 0,
+		'ItemNotes': [''],
+		'ProductSerialNum': '',
+		'OwnerCode': 0
+	},
+	{
+		'Quantity': 1.0,
+		'Amount': 28.0,
+		'PLUNo': 1,
+		'DepartmentId': 4,
+		'VatRate': 5.0,
+		'Definition': 'TEKDONER',
+		'Barcode': '1234561',
+		'ReferenceCode': '',
+		'DiscountInfo': {
+			'DiscountTotal': 0.0,
+			'DiscountRate': 0,
+			'DiscountNotes': []
+		},
+		'Weighable': '',
+		'Price': 14.95,
+		'SalesPerson': 0,
+		'ItemNotes': [''],
+		'ProductSerialNum': '',
+		'OwnerCode': 0
+	},
+	{
+		'Quantity': 1.0,
+		'Amount': 24.0,
+		'PLUNo': 8,
+		'DepartmentId': 4,
+		'VatRate': 5.0,
+		'Definition': 'TURSU',
+		'Barcode': '1234568',
+		'ReferenceCode': '',
+		'DiscountInfo': {
+			'DiscountTotal': 0.0,
+			'DiscountRate': 0,
+			'DiscountNotes': []
+		},
+		'Weighable': '',
+		'Price': 3.95,
+		'SalesPerson': 0,
+		'ItemNotes': [''],
+		'ProductSerialNum': '',
+		'OwnerCode': 0
+	},
+	{
+		'Quantity': 1.0,
+		'Amount': 39.0,
+		'PLUNo': 4,
+		'DepartmentId': 4,
+		'VatRate': 5.0,
+		'Definition': 'YARIMDONER',
+		'Barcode': '1234564',
+		'ReferenceCode': '',
+		'DiscountInfo': {
+			'DiscountTotal': 0.0,
+			'DiscountRate': 0,
+			'DiscountNotes': []
+		},
+		'Weighable': '',
+		'Price': 12.95,
+		'SalesPerson': 0,
+		'ItemNotes': [''],
+		'ProductSerialNum': '',
+		'OwnerCode': 0
+	}],
+	'PayItems': [{
+		'Amount': 411.0,
+		'PaymentType': 1,
+		'InstallmentNo': 0,
+		'CreditId': 0,
+		'Definition': '',
+		'ReferenceCode': '',
+		'IssuerId': '',
+		'CardNumber': '',
+		'AcquireId': ''
+	}],
+	'SalesTotal': 411.0,
+	'FooterNotes': [],
+	'CustomerInfo': {
+		'Name': '',
+		'ID': ''
+	},
+	'CustomTags': [],
+	'DiscountCode': 'PXV345FK',
+	'DiscountInfo': {
+		'DiscountTotal': 0.0,
+		'DiscountRate': 0,
+		'DiscountNotes': []
+	},
+	'SalesPerson': 0,
+	'CashInOutSerial': '',
+	'UserName': '',
+	'OperationCode': '',
+	'OrderCode': ''
+}
